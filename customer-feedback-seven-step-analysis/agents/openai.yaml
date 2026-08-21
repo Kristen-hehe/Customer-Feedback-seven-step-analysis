@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer Feedback Seven-Step Analysis"
+  short_description: "Turn customer feedback into rigorous CX priorities"
+  default_prompt: "Use $customer-feedback-seven-step-analysis to analyze this uploaded feedback dataset through all seven steps."
